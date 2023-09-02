@@ -7,7 +7,7 @@ servers:
   - url: ''
     description: 'Web Access'
   - url: 'http://localhost:3000'
-    description: 'Local host server''
+    description: 'Local host server'
 paths:
   /user/register:
     post:
