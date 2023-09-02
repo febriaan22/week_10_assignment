@@ -4,7 +4,7 @@ info:
   version: 1.0.0
   description: 'This is a Week 10 - Assignment making CRUD for Transaction'
 servers:
-  - url: ''
+  - url: 'https://thoughtful-girdle-crab.cyclic.app/api-docs/#/'
     description: 'Web Access'
   - url: 'http://localhost:3000'
     description: 'Local host server'
